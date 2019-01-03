@@ -1,25 +1,25 @@
-# recommender_live
+# 추천 시스템
 
 
-##Overview
+##개요
 
-This is the code for [this](https://youtu.be/18adykNGhHU) video on Youtube by Siraj Raval. We're going to be looking at recommendation systems and we focus on popularity-based, item-item collaborative filtering, and user-item collaborative filtering. Then at the end we talk about the bleeding edge, which is a deep learning approach. 
+이 코드는 Siraj Raval 의 [유투브 영상](https://youtu.be/18adykNGhHU)에 대한 것입니다. 우리가 살펴볼 것은 추천 시스템이고, 유명도, 사물-사물 필터링, 사용자-사물 필터링에 중점을 둘 것입니다. 그리고 마지막으로는 최첨단 방식인 딥러닝에 대해 알아볼 것입니다.
 
 
-##Dependencies
+##종속성
 
 * pandas
 * scikit-learn
 * numpy
 * scipy
 
-Use [pip](https://pip.pypa.io/en/stable/) to install missing dependencies. 
+[pip](https://pip.pypa.io/en/stable/) 를 사용하여 설치합니다. 
 
 
-##Usage
+##사용법
 
-Run `jupyter notebook` when in the main code directory to see this run in your browser.
+디렉토리 최상위 레벨에서 `jupyter notebook` 을 실행하면 브라우저에 코드가 나타납니다.
 
-##Credits
+##참조
 
-Credits go to [dvysardana](https://github.com/dvysardana). I've merely created a wrapper to get people started. 
+이 코드는 [dvysardana](https://github.com/dvysardana) 의 코드를 참조하여 알기 쉽게 편성한 것입니다. 
