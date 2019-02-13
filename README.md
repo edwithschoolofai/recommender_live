@@ -3,7 +3,7 @@
 
 ## 개요
 
-이 코드는 Siraj Raval 의 [유투브 영상](https://youtu.be/18adykNGhHU)에 대한 것입니다. 추천 시스템을 인기도 기반, item-item 협업필터링 기반, user-item 협업필터링 기반의 방식들로 살펴보고, 마지막으로 가장 최신 딥러닝 방식을 알아보려 합니다.
+이 코드는 Siraj Raval 의 [유투브 영상](https://youtu.be/18adykNGhHU)에 대한 것입니다. 인기도 기반, item-item 협업필터링 기반, user-item 협업필터링 기반 방식의 추천시스템을 살펴본 후, 가장 최신 딥러닝 방식으로 보겠습니다.
 
 
 ## 종속성
