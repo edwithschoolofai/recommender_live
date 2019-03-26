@@ -20,6 +20,9 @@
 
 이 디렉토리 최상단에서 `jupyter notebook` 을 실행하면 브라우저에 코드가 나타납니다.
 
+## IPython 
+[ 코드 돌려보기 (Colab) ](https://colab.research.google.com/github/edwithschoolofai/recommender_live/blob/master/Song%20Recommender_Python.ipynb) 
+
 ## 참조
 
 이 코드는 [dvysardana](https://github.com/dvysardana) 의 코드를 참조하여 알기 쉽게 편성한 것입니다. 
